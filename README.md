@@ -12,7 +12,7 @@ Open the Sign and Locate the USB Connection. With the Wall Power UNPLUGGED, plug
 
 Open this site with the Sign Plugged In. [WLED](https://install.wled.me/)
 
-Following the current Flashing instructions located Here Flash the Board with the Latest WLED Firmware.
+Following the current Flashing instructions located Here [WLED FLASHING INSTRUCTIONS](https://kno.wled.ge/basics/install-binary/) Flash the Board with the Latest WLED Firmware.
 
 Once Complete, Connect to the WLED-AP network using the password wled1234 and you should be greeted with a captive portal.
 
