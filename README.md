@@ -2,14 +2,6 @@
 
 This Github is to Support you and Your new WLED powered Sign
 
-
-## Table of Contents
-
-
-- [Usage](#usage)
-- [Badge](#restore to defaults)
-
-
 ## Sign Usage
 
 Connect to the VC-WLED-AP network using no password and you should be greeted with the WLED captive portal.
